@@ -1,0 +1,25 @@
+{
+  "name": "pack-tailwind",
+  "displayName": "Pack Tailwind",
+  "description": "VSCode Tailwind Extension Pack",
+  "version": "1.0.0",
+  "publisher": "TMK04",
+  "license": "Apache-2.0",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-rename-tag",
+    "phoenisx.cssvar",
+    "vunguyentuan.vscode-postcss",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TMK04/pack-tailwind.git"
+  }
+}
